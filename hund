@@ -1,0 +1,9 @@
+cd git_repos
+git clone shttps://github.com/jiokkjnn/pola.git
+cd jiokkjnn -stery -serir
+ls
+touch cloning.txt
+git add cloning.txt
+git commit cioning.txt -m "learning to work with clones"
+git status
+git push _uorigin main
